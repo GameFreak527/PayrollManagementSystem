@@ -1,0 +1,9 @@
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\obj\Debug\SoftwareDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\bin\SoftwareDevelopment.dll.config
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\bin\SoftwareDevelopment.dll
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\bin\SoftwareDevelopment.pdb
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\obj\Debug\SoftwareDevelopment.dll
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\obj\Debug\SoftwareDevelopment.pdb
+C:\Users\-\source\repos\SoftwareDevelopment\SoftwareDevelopment\obj\Debug\SoftwareDevelopment.csprojResolveAssemblyReference.cache
